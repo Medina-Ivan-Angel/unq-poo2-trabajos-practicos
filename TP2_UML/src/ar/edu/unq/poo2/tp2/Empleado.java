@@ -1,4 +1,4 @@
-package Empresa;
+package ar.edu.unq.poo2.tp2;
 
 import java.time.LocalDateTime;
 import java.time.Period;
